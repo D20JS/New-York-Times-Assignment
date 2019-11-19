@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
+
+body {
+  font-family: "Monsterrat", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+#main-img {
+  width: 945px;
+  height: 532px;
+}
