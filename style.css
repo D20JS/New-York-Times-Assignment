@@ -38,12 +38,11 @@ button {
 }
 
 #main-img {
+  margin: 0 400px;
   width: 945px;
   height: 532px;
 }
 
 .main-content {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  margin: 0 700px;
 }
