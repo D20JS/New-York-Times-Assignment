@@ -46,3 +46,15 @@ button {
 .main-content {
   margin: 0 700px;
 }
+
+p {
+  margin-left: 400px;
+  max-width: 900px;
+}
+
+#content {
+  font-family: "Cinzel", serif;
+  font-size: 20px;
+  margin-left: 600px;
+  max-width: 600px;
+}
