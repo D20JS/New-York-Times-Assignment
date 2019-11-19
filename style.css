@@ -4,6 +4,8 @@ body {
   font-family: "Monsterrat", sans-serif;
   background-color: black;
   color: white;
+  display: flex;
+  flex-direction: column;
 }
 
 #menu {
@@ -23,6 +25,8 @@ body {
 header {
   display: flex;
   justify-content: center;
+}
+h2 {
   margin: 0;
 }
 
@@ -36,4 +40,10 @@ button {
 #main-img {
   width: 945px;
   height: 532px;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
