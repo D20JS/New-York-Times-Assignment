@@ -6,6 +6,33 @@ body {
   color: white;
 }
 
+#menu {
+  position: relative;
+  right: 700px;
+  width: 25px;
+  height: 25px;
+}
+
+#mag-glass {
+  position: relative;
+  right: 650px;
+  width: 25px;
+  height: 25px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+button {
+  position: relative;
+  left: 500px;
+  width: 120px;
+  height: 32px;
+}
+
 #main-img {
   width: 945px;
   height: 532px;
