@@ -52,23 +52,24 @@ button {
   margin: 0 700px;
 }
 
-p {
-  margin-left: 400px;
-  max-width: 900px;
-}
-
-h4,
+h3,
 h6 {
   margin-left: 600px;
 }
 
-h3 {
-  margin-left: 400px;
+h6 {
+  max-width: 700px;
 }
 
-#content {
+p {
+  margin-left: 400px;
+  max-width: 900px;
   font-family: "Cinzel", serif;
   font-size: 20px;
   margin-left: 600px;
   max-width: 600px;
+}
+
+iframe {
+  margin-left: 600px;
 }
