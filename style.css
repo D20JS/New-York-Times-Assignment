@@ -42,6 +42,11 @@ button {
   width: 945px;
   height: 532px;
 }
+#second {
+  margin: 0 400px;
+  width: 945px;
+  height: 532px;
+}
 
 .main-content {
   margin: 0 700px;
@@ -50,6 +55,15 @@ button {
 p {
   margin-left: 400px;
   max-width: 900px;
+}
+
+h4,
+h6 {
+  margin-left: 600px;
+}
+
+h3 {
+  margin-left: 400px;
 }
 
 #content {
