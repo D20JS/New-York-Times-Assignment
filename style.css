@@ -48,6 +48,12 @@ button {
   height: 532px;
 }
 
+#third {
+  margin: 0 400px;
+  width: 945px;
+  height: 532px;
+}
+
 .main-content {
   margin: 0 700px;
 }
