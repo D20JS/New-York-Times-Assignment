@@ -104,6 +104,11 @@ iframe {
   padding: 20px 5px 0 30px;
 }
 
+#bottom {
+  position: relative;
+  left: 280px;
+}
+
 td {
   position: relative;
   left: 25px;
@@ -113,7 +118,7 @@ td {
 
 #aside {
   position: relative;
-  bottom: 500px;
+  bottom: 770px;
   right: 400px;
   float: right;
   max-width: 250px;
