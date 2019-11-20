@@ -83,6 +83,7 @@ iframe {
 .b2 {
   position: relative;
   left: 600px;
+  bottom: 40px;
   width: 300px;
 }
 .fb,
@@ -94,4 +95,16 @@ iframe {
   border-radius: 50%;
   position: relative;
   left: 700px;
+  bottom: 40px;
+}
+
+.tb-img {
+  width: 280px;
+  height: 200px;
+  padding: 20px 5px 0 30px;
+}
+
+td {
+  font-size: 14px;
+  max-width: 50px;
 }
