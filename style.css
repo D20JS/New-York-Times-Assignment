@@ -110,3 +110,17 @@ td {
   font-size: 18px;
   max-width: 50px;
 }
+
+#aside {
+  position: relative;
+  bottom: 500px;
+  right: 400px;
+  float: right;
+  max-width: 250px;
+  font-size: 20px;
+  word-spacing: 10px;
+}
+
+h5 {
+  margin: 0 0 0 0;
+}
