@@ -99,12 +99,14 @@ iframe {
 }
 
 .tb-img {
-  width: 280px;
-  height: 200px;
+  width: 273px;
+  height: 182px;
   padding: 20px 5px 0 30px;
 }
 
 td {
-  font-size: 14px;
+  position: relative;
+  left: 25px;
+  font-size: 18px;
   max-width: 50px;
 }
